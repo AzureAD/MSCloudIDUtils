@@ -1,3 +1,10 @@
+MSCloudIdUtils PowerShell Module
+=====================================
+
+# Description
+
+PowerShell Module for working with Azure Active Directory using the Microsoft Identity Platform
+The PowerShell module is published on the PowerShell Gallery at:  https://www.powershellgallery.com/packages/MSCloudIdUtils/
 
 # Contributing
 
