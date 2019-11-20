@@ -7,9 +7,10 @@
 
 .DESCRIPTION
 
-	Version: 1.0.0
+	Version: 1.0.0.2
 
 	MSCloudIdUtils.psm1 is a Windows PowerShell module with some Azure AD helper functions for common administrative tasks
+	Project can be found on https://github.com/AzureAD/MSCloudIDUtils 
 
 
 .DISCLAIMER
