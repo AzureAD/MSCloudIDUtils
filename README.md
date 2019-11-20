@@ -3,8 +3,13 @@ MSCloudIdUtils PowerShell Module
 
 # Description
 
-PowerShell Module for working with Azure Active Directory using the Microsoft Identity Platform
+PowerShell Module for working with Azure Active Directory using the Microsoft Identity Platform for requesting tokens from Azure AD, and utilizing them for scenarios such as querying the MS Graph API
+
+# Installation
 The PowerShell module is published on the PowerShell Gallery at:  https://www.powershellgallery.com/packages/MSCloudIdUtils/
+
+# Project Repo
+The project source can be found at https://github.com/AzureAD/MSCloudIDUtils
 
 # Contributing
 
